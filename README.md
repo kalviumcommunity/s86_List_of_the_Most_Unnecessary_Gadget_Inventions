@@ -1,4 +1,4 @@
-## Project Title:  List of the Most Unnecessary Gadget Inventions
+# Project Title:  List of the Most Unnecessary Gadget Inventions
 
 **Project Overview:**
 This project aims to compile a list of the most unnecessary and bizarre gadgets that people have come up with. Each user can log in to see and contribute to a unique list of these gadgets based on their preferences. The goal is to create a fun and engaging platform where users can share and rate the most impractical inventions, providing both entertainment and a showcase for your technical skills.
@@ -14,7 +14,7 @@ User Login and Authentication: Secure user accounts with unique login credential
 
 **Share Option:** Allows users to share their favorite gadgets on social media platforms.
 
-## Tech Stack:
+# Tech Stack:
 
 **Frontend:** React, Vite, Styled Components
 
@@ -26,7 +26,7 @@ User Login and Authentication: Secure user accounts with unique login credential
 
 **Hosting:** GitHub Pages for frontend, Heroku for backend
 
-## Why This Project:
+# Why This Project:
 This project stands out for its blend of humor and technical challenge. 
 
 **It is designed to:**
